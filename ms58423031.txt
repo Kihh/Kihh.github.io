@@ -1,5 +1,0 @@
-﻿{
-  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
-  "Domain": "kihh.github.io",
-  "Id": "0cda5a5c-d87d-491b-822c-188685b56627"
-}
